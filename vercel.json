@@ -5,11 +5,5 @@
             "source": "/(.*)",
             "destination": "/"
         }
-    ],
-    "buiids": [
-        {
-            "src": "./api/index.js",
-            "use": "@vercel/node"
-        }
     ]
 }
