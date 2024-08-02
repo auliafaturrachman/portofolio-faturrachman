@@ -1,0 +1,11 @@
+@media (max-width: 480px) {
+    #home.dizme_tm_section {
+        padding-top: 50px;
+    }
+
+    #home.dizme_tm_section>.dizme_tm_hero {
+        margin-bottom: 0;
+        padding-bottom: 80px;
+        height: auto;
+    }
+}
